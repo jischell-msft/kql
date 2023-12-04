@@ -22,6 +22,7 @@ Testing with sample inputs
 ```
 get_RotationString('test1@example.com', rotation=(13))
 ```
+
 | InputString       | rotationTranslate |
 -----------------------------------------
 | test1@example.com | grfg1@rknzcyr.pbz |
@@ -30,6 +31,7 @@ get_RotationString('test1@example.com', rotation=(13))
 ```
 get_RotationString('Test1@example.com', rotation=(-1))
 ```
+
 | InputString	     | rotationTranslate  |
 -------------------------------------------
 | Test1@example.com  |	Sdrs1@dwzlokd.bnl |
